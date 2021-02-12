@@ -15,7 +15,7 @@
 </p>
 
  ### Connect with me:
-<a href="www.linkedin.com/in/rifafatima">
+<a href="https://www.linkedin.com/in/rifafatima/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://twitter.com/rifatima23">

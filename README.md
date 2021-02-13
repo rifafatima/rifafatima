@@ -4,7 +4,7 @@
 
 ## About me:
 - 🏫 I am a sophomore at Ajay Kumar Garg Engineering College, pursuing B.Tech in Computer Science.
-- 🌱 I am currently learning React and practicing DSA. 
+- 🌱 I am currently learning React and DSA. 
 - 💻 I am exploring the world of open source and searching for opportunities to contribute.
 - ✨ I’m looking for help with DSA and problem solving.
 - 😄 Pronouns: She/Her

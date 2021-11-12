@@ -5,7 +5,6 @@
 ## About me:
 - 🏫 I am a pre-final year student at Ajay Kumar Garg Engineering College, pursuing B.Tech in Computer Science.
 - ✨ I am currently learning Flutter and DSA. 
-- 💻 I’m looking for help with DSA and problem solving.
 - 😄 Pronouns: She/Her
 
 ### Languages and Tools:
